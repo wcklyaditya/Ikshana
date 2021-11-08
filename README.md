@@ -24,3 +24,10 @@ DIY version to detect a high temperature flame using UV/Visible/IR sensors
   * [Boston Electronics](https://www.boselec.com/)
   * [IR Sensors by Infratec](https://www.infratec-infrared.com/sensor-division/single-channel-detectors/)
 
+# Commercial Products and Public Info on Them
+* Honeywell
+  * Multi-spectrum quadband triple IR fire and flame detector, dual microprocessors (https://www.instrumart.com/products/37730/honeywell-fs24x-flame-detectors)
+  * Multi-spectrum UV/dual IR/VIS fire and flame detector, electronic frequency analysis (https://www.instrumart.com/products/37732/honeywell-fs20x-fire-sentry-detector)
+
+* Fireeye (https://www.fireye.com/)
+  * Insight Series (https://www.fireye.com/Content/Documents/insight-integrated-flame-scanner.pdf)
