@@ -22,4 +22,5 @@ DIY version to detect a high temperature flame using UV/Visible/IR sensors
     * [GUVC-T21GH UV-C SENSOR 220-280NM](https://www.digikey.com/en/products/detail/genicom-co-ltd/GUVC-T21GH/10474927)
 * IR Sensor
   * [Boston Electronics](https://www.boselec.com/)
+  * [IR Sensors by Infratec](https://www.infratec-infrared.com/sensor-division/single-channel-detectors/)
 
